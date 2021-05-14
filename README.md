@@ -1,6 +1,10 @@
-### Hi there 👋
+### Duda Ramos :)
+**ramosduda/ramosduda** is a ✨ student ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+On Wednesdays we use pink!
 <!--
+
+
 **ramosduda/ramosduda** is a ✨ student ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
